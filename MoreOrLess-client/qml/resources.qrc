@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Connect.qml</file>
+        <file>Profile.qml</file>
+        <file>Game.qml</file>
+        <file>End.qml</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="roboto_black">fonts/Roboto-Black.ttf</file>
+    </qresource>
+</RCC>
