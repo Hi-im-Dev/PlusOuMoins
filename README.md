@@ -26,29 +26,25 @@ And run the associated makefile for each project part (server / client).
 
 ## Current Features
 
-Client : ```
+Client :
   - Connection to server
   - Profile configuration
   - Animated game
   - Stats of your current game at end
-```
 
-Server : ```
+Server :
   - Multiple client instances
   - Multiple options (see --help)
   - JSON storage of game data
-```
 
 ## Missing Features
 
-Client : ```
+Client :
   - Bot feature
   - Better display for end stats
   - Buttons to navigate independantly on views
   - Replay / Exit button (the close button in top right of window still works, don't worry)
-```
 
-Server : ```
+Server :
   - History save (everything is in place, just need implementation)
   - Better error display (custom handler with qInstallMessageHandler)
-```
